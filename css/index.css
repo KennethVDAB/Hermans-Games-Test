@@ -1,11 +1,15 @@
-img{
+img {
     cursor: pointer;
 }
 
-body{
+body {
     background-color: purple;
 }
 
 h2 {
     background-color: red;
+}
+
+h3 {
+    background-color: orange;
 }
